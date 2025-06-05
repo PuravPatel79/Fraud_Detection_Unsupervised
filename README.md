@@ -6,6 +6,8 @@ This project implements an unsupervised learning system to detect potentially fr
 
 The system is developed in Python and involves data preprocessing, feature engineering, model training, hyperparameter tuning, and comprehensive evaluation including the generation of synthetic "normal" transaction data by the VAE.
 
+Dataset link: [https://www.kaggle.com/datasets/ealaxi/paysim1/data](https://www.kaggle.com/datasets/ealaxi/paysim1/data)
+
 ## File Structure
 
 ├── main.py                     # Trains models (Isolation Forest, multiple VAEs) and saves artifacts.
